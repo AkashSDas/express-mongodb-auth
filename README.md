@@ -1,1 +1,1 @@
-# express-mongodb-auth-template
+# express-mongodb-auth
